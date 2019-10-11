@@ -1,6 +1,6 @@
 # leetcode解题之路
 
-![]("./assets/imgs/leetcode.gif")
+![leetcode](https://github.com/taosin/leetcode/blob/master/assets/imgs/leetcode.gif)
 
 ## 目录
 
