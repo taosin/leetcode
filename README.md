@@ -1,5 +1,14 @@
 # LeetCode 算法之路
 
+[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
+[![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=taosin.leetcode)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=taosin.leetcode)
+
+> 记录自己算法学习、刷题之路
+
+## 背景
+
 ![leetcode](https://github.com/taosin/leetcode/blob/master/assets/imgs/leetcode.gif)
 
 ## 第一部分 图说 LeetCode
