@@ -1,7 +1,7 @@
 # LeetCode 算法之路
 
-[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
-[![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
+![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)
+![Travis](https://img.shields.io/badge/language-Java-blue.svg)
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=taosin.leetcode)
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=taosin.leetcode)
 
