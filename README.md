@@ -7,7 +7,7 @@
 
 > 记录自己算法学习、刷题之路
 
-## 背景
+## 关于
 
 ![leetcode](https://github.com/taosin/leetcode/blob/master/assets/imgs/leetcode.gif)
 
